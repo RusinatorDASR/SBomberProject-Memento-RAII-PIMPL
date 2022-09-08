@@ -149,6 +149,7 @@
     </ClCompile>
     <ClCompile Include="Plane.cpp" />
     <ClCompile Include="SBomber.cpp" />
+    <ClCompile Include="SBomberImpl.cpp" />
     <ClCompile Include="SBomberProject.cpp" />
     <ClCompile Include="Tank.cpp" />
   </ItemGroup>
@@ -164,6 +165,7 @@
     <ClInclude Include="MyTools.h" />
     <ClInclude Include="Plane.h" />
     <ClInclude Include="SBomber.h" />
+    <ClInclude Include="SBomberImpl.h" />
     <ClInclude Include="Tank.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
